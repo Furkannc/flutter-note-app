@@ -1,4 +1,4 @@
-**Flutter note app** 
+**Flutter note app with sqlite** 
 
 
 
